@@ -1,0 +1,10 @@
+body { font-family: system-ui, Arial, sans-serif; max-width: 720px; margin: 40px auto; line-height: 1.5; }
+h1 { margin-bottom: 0.2rem; }
+h2 { margin-top: 2rem; }
+form { margin: 1rem 0; }
+input[type=text] { padding: 0.5rem; width: 70%; max-width: 420px; }
+button { padding: 0.5rem 0.9rem; cursor: pointer; }
+ul { padding-left: 1.2rem; }
+table { border-collapse: collapse; width: 100%; }
+td,th { border: 1px solid #ddd; padding: 8px; }
+tr:nth-child(even) { background: #f7f7f7; }
